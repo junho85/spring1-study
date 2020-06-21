@@ -1,0 +1,7 @@
+= spring1-study
+
+jdk8 사용. jdk11로 하면 안됨.
+
+spring framework 1 petclinic
+
+https://github.com/SvenAugustus/spring-framework-1.0-jdk8/tree/master/samples/petclinic
